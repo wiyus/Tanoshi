@@ -1,0 +1,23 @@
+# Ignore the bot token
+token.txt
+
+# JetBrains
+.idea/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# .NET
+project.lock.json
+project.fragment.lock.js
+artifacts/
+
+# User files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
