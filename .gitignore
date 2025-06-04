@@ -1,5 +1,6 @@
-# Ignore the bot token
+# Ignore the bot token and testing guild ID
 token.txt
+guildID.txt
 
 # JetBrains
 .idea/
